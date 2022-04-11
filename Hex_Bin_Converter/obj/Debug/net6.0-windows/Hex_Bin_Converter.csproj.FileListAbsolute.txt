@@ -1,0 +1,17 @@
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\bin\Debug\net6.0-windows\Hex_Bin_Converter.exe
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\bin\Debug\net6.0-windows\Hex_Bin_Converter.deps.json
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\bin\Debug\net6.0-windows\Hex_Bin_Converter.runtimeconfig.json
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\bin\Debug\net6.0-windows\Hex_Bin_Converter.dll
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\bin\Debug\net6.0-windows\ref\Hex_Bin_Converter.dll
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\bin\Debug\net6.0-windows\Hex_Bin_Converter.pdb
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.csproj.AssemblyReference.cache
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.Form1.resources
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.csproj.GenerateResource.cache
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.AssemblyInfoInputs.cache
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.AssemblyInfo.cs
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.csproj.CoreCompileInputs.cache
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.dll
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\ref\Hex_Bin_Converter.dll
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.pdb
+C:\Work_Space\C#\Hex_Bin_Coverter\Hex_Bin_Converter\Hex_Bin_Converter\obj\Debug\net6.0-windows\Hex_Bin_Converter.genruntimeconfig.cache
